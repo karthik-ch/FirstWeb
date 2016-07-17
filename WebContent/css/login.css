@@ -1,0 +1,8 @@
+.outerLoginDiv {
+	display: inline-flex;
+	height: 400px;
+}
+
+.loginDiv {
+	margin: auto 5px;
+}
